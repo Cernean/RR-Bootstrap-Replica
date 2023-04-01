@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 export default function StoreListings() {
     return (
         <div style={{ margin: "auto" }}>
-            <h2 style={{ fontSize: "36px", lineHeight: "50px", marginTop: "20px", textAlign: "center", fontWeight: "normal" }}>Browse stores in Houston</h2>
+            <h2 style={{ fontSize: "36px", lineHeight: "50px", marginTop: "20px", textAlign: "center", fontWeight: "normal" }}>Browse stores in Cary NC.</h2>
             <Container style={{ marginTop: "50px", textAlign: "center" }}>
                 <Row style={{ borderBottom: "1px solid #E8E9EB", display: "flex", justifyContent: "space-evenly"}} >
                     <Row className='text-left'>
